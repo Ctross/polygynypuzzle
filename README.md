@@ -4,7 +4,6 @@ Code and Data from: Ross CT et al. 2018 Greater wealth inequality, less polygyny
 Bibtex:
 ```
 @article{ross2018greater,
-@article {Ross20180035,
 	author = {Ross, Cody T. and Borgerhoff Mulder, Monique and Oh, Seung-Yun and Bowles, Samuel and Beheim, Bret and Bunce, John and Caudell, Mark and Clark, Gregory and Colleran, Heidi and Cortez, Carmen and Draper, Patricia and Greaves, Russell D. and Gurven, Michael and Headland, Thomas and Headland, Janet and Hill, Kim and Hewlett, Barry and Kaplan, Hillard S. and Koster, Jeremy and Kramer, Karen and Marlowe, Frank and McElreath, Richard and Nolin, David and Quinlan, Marsha and Quinlan, Robert and Revilla-Minaya, Caissa and Scelza, Brooke and Schacht, Ryan and Shenk, Mary and Uehara, Ray and Voland, Eckart and Willf{\"u}hr, Kai and Winterhalder, Bruce and Ziker, John},
 	title = {Greater wealth inequality, less polygyny: rethinking the polygyny threshold model},
 	volume = {15},
